@@ -172,6 +172,10 @@ body{
 	
 }
 
+.black *{
+	color: blue;
+}
+
 .addressEmail{
 	width: 21em;
 }
